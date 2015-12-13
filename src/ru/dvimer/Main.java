@@ -18,7 +18,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
         Player[] gamepPayer = new Player[3];
-        Player player1 = new Player("Konan", 10, 10, 1, 100);
+        Player player1 = new Player("Леха истребитель вампироидов!!!", 10, 10, 1, 100);
         Player player2 = new Player("Lich", 10, 10, 1, 100);
         Player player3 = new Player("Vetarium", 10, 10, 1, 100);
         gamepPayer[0]= player1;

@@ -10,7 +10,7 @@ public class Monster {
     private int intelect;
     private int hp;
 
-    private void attaka()
+   // private void attaka()
 
     public Monster(String name, int attake, int defference, int intelect, int hp){
         this.name = name;
